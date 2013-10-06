@@ -11,11 +11,15 @@ Download from this page the zip, extract and place the folder Pacifica on home/u
 
 ####2. PPA:
 
-Add the official PPA from launchpad
+Add the official PPA from launchpad for elementary OS, Ubuntu (don't work on Saucy salamander)
 
 <pre>
 sudo add-apt-repository ppa:fsvh/pacifica-icon-theme
 sudo apt-get update
 sudo apt-get install pacifica-icon-theme
 </pre>
+
+###Bugs and questions
+
+If you find a bug please report it to [Launchpad](https://launchpad.net/~fsvh/+archive/pacifica-icon-theme), [HitHub](https://github.com/fsvh/pacifica-icon-theme) or [email](mailto:fsvh@me.com). 
 
