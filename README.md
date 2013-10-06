@@ -4,11 +4,12 @@ Another Icon Theme for Linux. This pack is a mixture of many flavours like (Faen
 
 You have two possibilities to download.
 
-###1. Manually:
+
+####1. Manually:
 
 Download from this page the zip, extract and place the folder Pacifica on home/user/.icons or usr/share/icons
 
-###2. PPA:
+####2. PPA:
 
 Add the official PPA from launchpad
 
