@@ -22,6 +22,10 @@ sudo apt-get update
 sudo apt-get install pacifica-icon-theme
 </pre>
 
+###Wishlist
+
+If you need an icon that is not [listed](https://github.com/fsvh/pacifica-icon-theme/blob/master/Apps-and-programs-supported), you can make a request [here](https://docs.google.com/forms/d/1dSRER1NKmYgh4YPBgd_Y96uGg6KMHZpozP9hSf3yE_w/viewform#start=invite).
+
 ###Bugs and questions
 
 If you find a bug please report it to [Launchpad](https://launchpad.net/~fsvh/+archive/pacifica-icon-theme) or [HitHub](https://github.com/fsvh/pacifica-icon-theme).
