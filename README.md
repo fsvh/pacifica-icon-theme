@@ -4,6 +4,7 @@ Another Icon Theme for Linux. This pack is a mixture of many flavours like (Faen
 
 You have two possibilities to download.
 
+If you like my work, invite me out for some [ice cream](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC). The work is large because there are many programs out there, help me to stay motivated. Consider a small donation please. [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC) (you do not need a paypal account to use their services)
 
 ####1. Manually:
 
@@ -21,5 +22,12 @@ sudo apt-get install pacifica-icon-theme
 
 ###Bugs and questions
 
-If you find a bug please report it to [Launchpad](https://launchpad.net/~fsvh/+archive/pacifica-icon-theme), [HitHub](https://github.com/fsvh/pacifica-icon-theme) or [email](mailto:fsvh@me.com). 
+If you find a bug please report it to [Launchpad](https://launchpad.net/~fsvh/+archive/pacifica-icon-theme) or [HitHub](https://github.com/fsvh/pacifica-icon-theme).
+
+###Changelog
+
+  * Update Tue, 01 Oct 2013 with 62 icons have been added
+
+  * Initial release Fri, 27 Sep 2013
+
 
