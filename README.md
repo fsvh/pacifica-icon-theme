@@ -2,9 +2,11 @@
 
 Another Icon Theme for Linux. This pack is a mixture of many flavours like (Faenza/Faience, Moka, Nitrux, Elementary and more).
 
-You have two possibilities to download.
+If you like my work, invite me out for some [ice cream](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC). The work is large because there are many programs out there, help me to stay motivated. Consider a small donation please. [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC) (you don't need a paypal account to use their services)
 
-If you like my work, invite me out for some [ice cream](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC). The work is large because there are many programs out there, help me to stay motivated. Consider a small donation please. [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC) (you do not need a paypal account to use their services)
+###Installation
+
+You have two possibilities to install.
 
 ####1. Manually:
 
