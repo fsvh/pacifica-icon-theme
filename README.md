@@ -13,8 +13,9 @@ Download from this page the zip, extract and place the folder Pacifica on home/u
 
 Add the official PPA from launchpad
 
-<code>sudo add-apt-repository ppa:fsvh/pacifica-icon-theme<br>
-sudo apt-get update<br>
+<pre>
+sudo add-apt-repository ppa:fsvh/pacifica-icon-theme
+sudo apt-get update
 sudo apt-get install pacifica-icon-theme
-</code>
+</pre>
 
