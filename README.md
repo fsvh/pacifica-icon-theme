@@ -2,6 +2,8 @@
 
 Another Icon Theme for Linux. This pack is a mixture of many flavours like (Faenza/Faience, Moka, Nitrux, Elementary and more).
 
+###Important
+
 If you like my work, invite me out for some [ice cream](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC). The work is large because there are many programs out there, help me to stay motivated. Consider a small donation please. [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZE89Z9SE5QSC) (you don't need a paypal account to use their services)
 
 ###Installation
@@ -28,7 +30,7 @@ If you need an icon that is not [listed](https://github.com/fsvh/pacifica-icon-t
 
 ###Bugs and questions
 
-If you find a bug please report it to [Launchpad](https://launchpad.net/~fsvh/+archive/pacifica-icon-theme) or [HitHub](https://github.com/fsvh/pacifica-icon-theme).
+If you find a bug please report it to [Launchpad](https://launchpad.net/~fsvh/+archive/pacifica-icon-theme) or [GitHub](https://github.com/fsvh/pacifica-icon-theme).
 
 ###Changelog
 
