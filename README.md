@@ -16,7 +16,7 @@ Download from this page the zip, extract and place the folder Pacifica on home/u
 
 ####2. PPA:
 
-Add the official PPA from launchpad for elementary OS, Ubuntu (don't work on Saucy salamander)
+Add the official PPA from launchpad for elementary OS, Ubuntu (Precise, Quantal, Raring, Saucy)
 
 <pre>
 sudo add-apt-repository ppa:fsvh/pacifica-icon-theme
