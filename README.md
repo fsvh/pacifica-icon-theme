@@ -30,7 +30,7 @@ If you need an icon that is not [listed](https://github.com/fsvh/pacifica-icon-t
 
 ###Tips
 
-Some icons can't be changed, so you have to do manually, an easy way is using menulibre [Launchpad](http://www.deviantart.com/users/outgoing?https://launchpad.net/~menulibre-dev/+archive/devel)
+Some icons can't be changed, so you have to do manually, an easy way is using menulibre [Launchpad](https://launchpad.net/~menulibre-dev/+archive/devel)
 
 ###Contribute
 
