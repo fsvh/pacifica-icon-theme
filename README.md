@@ -28,6 +28,10 @@ sudo apt-get install pacifica-icon-theme
 
 If you need an icon that is not [listed](https://github.com/fsvh/pacifica-icon-theme/blob/master/Apps-and-programs-supported), you can make a request [here](https://docs.google.com/forms/d/1dSRER1NKmYgh4YPBgd_Y96uGg6KMHZpozP9hSf3yE_w/viewform#start=invite).
 
+###Tips
+
+Some icons can't be changed, so you have to do manually, an easy way is using menulibre [Launchpad](http://www.deviantart.com/users/outgoing?https://launchpad.net/~menulibre-dev/+archive/devel)
+
 ###Contribute
 
 Here you have 3 generic background icons that I use on Pacifica Icon Theme.
@@ -42,7 +46,10 @@ Thanks for your help.
 
 If you find a bug please report it to [Launchpad](https://launchpad.net/~fsvh/+archive/pacifica-icon-theme) or [GitHub](https://github.com/fsvh/pacifica-icon-theme).
 
+
 ###Changelog
+
+  * Update Sun, 20 Oct 2013 with 54 icons have been added
 
   * Update Tue, 01 Oct 2013 with 62 icons have been added
 
