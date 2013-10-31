@@ -49,6 +49,10 @@ If you find a bug please report it to [Launchpad](https://launchpad.net/~fsvh/+a
 
 ###Changelog
 
+  * Update Thu, 31 Oct 2013 with 58 icon have been added
+
+  * Update Wed, 23 Oct 2013 minor changes
+
   * Update Sun, 20 Oct 2013 with 54 icons have been added
 
   * Update Tue, 01 Oct 2013 with 62 icons have been added
