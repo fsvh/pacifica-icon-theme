@@ -1,3 +1,5 @@
+![Texte alternatif](http://fc07.deviantart.net/fs70/f/2013/275/e/c/pacifica_icons_by_bokehlicia-d6nn5lb.png "Pacifica Icon Theme")
+
 ##Pacifica Icon Theme
 
 Another Icon Theme for Linux. This pack is a mixture of many flavours like (Faenza/Faience, Moka, Nitrux, Elementary and more).
